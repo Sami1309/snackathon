@@ -1,0 +1,20 @@
+{
+  "name": "remotion-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "remotion preview",
+    "render": "remotion render MyComp out/video.mp4",
+    "still": "remotion still MyComp out/still.png"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.124"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
+

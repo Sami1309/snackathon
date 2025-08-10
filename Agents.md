@@ -1,0 +1,1 @@
+Remember that GPT-5 does not take a temperature parameter, so do not pass it to the API
